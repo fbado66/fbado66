@@ -12,7 +12,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbado66&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/fbado66)  
-
 ![Profile views](https://gpvc.arturio.dev/fbado66)  
 
