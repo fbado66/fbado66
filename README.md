@@ -7,4 +7,5 @@
 - ⚡ Fun fact: I love to play chess and watch animes
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fbado66&show_icons=true&theme=dark)
 
