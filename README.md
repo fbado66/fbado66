@@ -15,7 +15,11 @@
 ![Profile views](https://gpvc.arturio.dev/fbado66)  
 
 
-##### Live Projects Demo
-<a href="https://evening-taiga-01396.herokuapp.com/" >Foodies Road </a>
-<a href="https://murmuring-hamlet-99473.herokuapp.com/"> Admin Panel </a>
+### Live Projects
+##### <li><a href="https://evening-taiga-01396.herokuapp.com/" >Foodies Road </a> <br/>
+  <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p>
+</li>
+##### <li><a href="https://murmuring-hamlet-99473.herokuapp.com/"> Admin Panel </a> <br/>
+<p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p>
+</li>
 
