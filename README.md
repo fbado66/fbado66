@@ -22,7 +22,10 @@
 </li>
 <li><a href="https://murmuring-hamlet-99473.herokuapp.com/"><strong> Admin Panel </strong></a> <br/>
   <a href="https://murmuring-hamlet-99473.herokuapp.com/"><img style='width: 50%;'src='/admin_panel.png'/></a> <br/>
-  
 <p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p>
+</li>
+<li><a href="https://peaceful-headland-40438.herokuapp.com/"><strong> Health Care Company </strong></a> <br/>
+  <a href="https://peaceful-headland-40438.herokuapp.com/"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
+<p>A web application built with Ruby on Rails with 3 different types of users, where health requests are made and handled</p>
 </li>
 
