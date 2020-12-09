@@ -21,6 +21,8 @@
   <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p>
 </li>
 <li><a href="https://murmuring-hamlet-99473.herokuapp.com/"><strong> Admin Panel </strong></a> <br/>
+  <a href="https://murmuring-hamlet-99473.herokuapp.com/"><img style='width: 50%;'src='/admin_panel.png'/></a> <br/>
+  
 <p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p>
 </li>
 
