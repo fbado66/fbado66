@@ -17,7 +17,7 @@
 
 ## LIVE PROJECTS
 <li><a href="https://evening-taiga-01396.herokuapp.com/" ><strong>Foodies Road</strong> </a> <br/>
-  <a href='href="https://evening-taiga-01396.herokuapp.com/'><img src='/foodies_road.png'></a> <br/>
+  <a href="https://evening-taiga-01396.herokuapp.com/"><img style='width: 50%;'src='/foodies_road.png'></a> <br/>
   <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p>
 </li>
 <li><a href="https://murmuring-hamlet-99473.herokuapp.com/"><strong> Admin Panel </strong></a> <br/>
