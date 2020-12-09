@@ -17,7 +17,7 @@
 
 ## LIVE PROJECTS
 <li><a href="https://github.com/fbado66/Mod5_frontEnd" ><strong>View Repository for Foodies Road</strong> </a> <br/><br/>
-    <a href="https://evening-taiga-01396.herokuapp.com/">Visit the deploy site</a> <br/>
+    <p style='text-align: center'><a href="https://evening-taiga-01396.herokuapp.com/">Visit the deploy site</a></p> <br/>
   <a href="https://evening-taiga-01396.herokuapp.com/"><img style='width: 50%;'src='/foodies_road.png'></a> <br/>
   <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p>
 </li>
