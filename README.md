@@ -29,7 +29,8 @@
   <a href="https://peaceful-headland-40438.herokuapp.com/"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
 <p>A web application built with Ruby on Rails with 3 different types of users, where health requests are made and handled</p>
 </li>
-<li><a href="https://github.com/fbado66/Life-after-Covid"><strong> Life After COVID </strong></a> <br/>
+<li><a href="https://github.com/fbado66/Life-after-Covid"><strong> View Repository for Life After COVID </strong></a> <br/>
+    <p style='margin-left: 50px!important'><a href="https://fbado66.github.io/Life-after-Covid/">Visit the deploy site</a></p> 
   <a href="https://fbado66.github.io/Life-after-Covid/"><img style='width: 50%;'src='/main_banner.png'/></a> <br/>
 <p>A single-page web Application that allows users to purchase PPE Products</p>
 </li>
