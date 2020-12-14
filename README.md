@@ -27,7 +27,7 @@
 </li>
 <li><a href="https://github.com/fbado66/Health_care_company"><strong>View Repository for Health Care Company </strong></a> <br/>
       <p style='margin-left: 50px!important'><a href="https://peaceful-headland-40438.herokuapp.com/">Visit the deploy site</a> <p/>
-  <a href="https://peaceful-headland-40438.herokuapp.com/"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
+  <a href="https://peaceful-headland-40438.herokuapp.com/" target="_blank"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
 <p>A web application built with Ruby on Rails with 3 different types of users, where health requests are made and handled</p>
 </li>
 <li><a href="https://github.com/fbado66/Life-after-Covid"><strong> View Repository for Life After COVID </strong></a> <br/>
