@@ -26,7 +26,7 @@
 <p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p>
 </li>
 <li><a href="https://github.com/fbado66/Health_care_company"><strong>View Repository for Health Care Company </strong></a> <br/>
-      <p style='margin-left: 50px!important'><a href="https://peaceful-headland-40438.herokuapp.com/">Visit the deploy site</a> <p/>
+      <p style='margin-left: 50px!important'><a href="https://peaceful-headland-40438.herokuapp.com/" target="_blank">Visit the deploy site</a> <p/>
   <a href="https://peaceful-headland-40438.herokuapp.com/" target="_blank"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
 <p>A web application built with Ruby on Rails with 3 different types of users, where health requests are made and handled</p>
 </li>
