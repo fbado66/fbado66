@@ -23,6 +23,7 @@
   <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p>
 </li>
 <li><a href="https://github.com/fbado66/Pamela_panel"><strong> View Repository for Pamela Panel </strong></a> <br/>
+    <a href='https://youtu.be/-KmdzI8OZVQ'><img src='/youtube-logo.png'></a><br>
      <p style='margin-left: 50px!important'><a href="https://murmuring-hamlet-99473.herokuapp.com/" target='_blank'><strong>Visit the deploy site</strong></a></p> 
   <a href="https://murmuring-hamlet-99473.herokuapp.com/"><img style='width: 50%;'src='/admin_panel.png'/></a> <br/>
 <p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p>
