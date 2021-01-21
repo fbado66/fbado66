@@ -17,7 +17,7 @@
 
 ## LIVE PROJECTS
 
-<br>
+
 #### Foodies Road
 
 <li><a href="https://github.com/fbado66/Mod5_frontEnd" ><strong>View Repository for Foodies Road</strong> </a> <br/>
@@ -27,8 +27,8 @@
   <a href="https://evening-taiga-01396.herokuapp.com/" target="_blank"><img style='width: 50%;'src='/foodies_road.png'></a> <br/>
   <p>A food delivery services web application created with React.JS and Ruby on Rails API to allow users to order food online. </p><br>
 </li>
-<br/>
-### Pamela Panel
+
+#### Pamela Panel
 
 <li><a href="https://github.com/fbado66/Pamela_panel"><strong> View Repository for Pamela Panel </strong></a> <br/>
     <br/>
@@ -37,8 +37,8 @@
   <a href="https://murmuring-hamlet-99473.herokuapp.com/"><img style='width: 50%;'src='/admin_panel.png'/></a> <br/>
 <p>A fun client-side oriented Admin Panel to easily manage data regarding fictitious courses, cohorts, students, instructors, and reminders</p><br>
 </li>
-<br/>
-### Health Care Company
+
+#### Health Care Company
 
 <li><a href="https://github.com/fbado66/Health_care_company"><strong>View Repository for Health Care Company </strong></a> <br/>
     <br/>
@@ -47,8 +47,8 @@
   <a href="https://peaceful-headland-40438.herokuapp.com/" target="_blank"><img style='width: 50%;'src='/igor_care.png'/></a> <br/>
 <p>A web application built with Ruby on Rails with 3 different types of users, where health requests are made and handled</p><br>
 </li>
-<br/>
-### Live After COVID
+
+#### Live After COVID
 
 <li><a href="https://github.com/fbado66/Life-after-Covid"><strong> View Repository for Life After COVID </strong></a> <br/>
     <br/>
