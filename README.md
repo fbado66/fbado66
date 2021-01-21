@@ -16,8 +16,10 @@
 
 
 ## LIVE PROJECTS
+
 <br>
-### Foodies Road
+#### Foodies Road
+
 <li><a href="https://github.com/fbado66/Mod5_frontEnd" ><strong>View Repository for Foodies Road</strong> </a> <br/>
     <br/>
     <a href='https://youtu.be/yN79Rd1UY08'><img src='/youtube-logo.png' /></a><br>
@@ -27,6 +29,7 @@
 </li>
 <br/>
 ### Pamela Panel
+
 <li><a href="https://github.com/fbado66/Pamela_panel"><strong> View Repository for Pamela Panel </strong></a> <br/>
     <br/>
     <a href='https://youtu.be/-KmdzI8OZVQ'><img src='/youtube-logo.png'></a><br>
@@ -36,6 +39,7 @@
 </li>
 <br/>
 ### Health Care Company
+
 <li><a href="https://github.com/fbado66/Health_care_company"><strong>View Repository for Health Care Company </strong></a> <br/>
     <br/>
     <a href='https://youtu.be/3pMCatjNueQ'><img src='/youtube-logo.png' /></a><br>   
@@ -45,6 +49,7 @@
 </li>
 <br/>
 ### Live After COVID
+
 <li><a href="https://github.com/fbado66/Life-after-Covid"><strong> View Repository for Life After COVID </strong></a> <br/>
     <br/>
     <a href='https://youtu.be/YOLEMmg3FCU'><img src='/youtube-logo.png' /></a><br>
