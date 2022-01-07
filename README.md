@@ -12,8 +12,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbado66&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/fbado66)  
-
 
 ## LIVE PROJECTS
 
