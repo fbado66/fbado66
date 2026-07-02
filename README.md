@@ -9,6 +9,15 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fbado66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franklin-bado/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@fbado66)  
 
+<br />
+<div align="center">
+  <a href="https://commit-history.com/fbado66">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/fbado66?theme=dark" />
+      <img alt="fbado66's commit history" src="https://commit-history.com/embed/fbado66" />
+    </picture>
+  </a>
+</div>
 
 ## LIVE PROJECTS
 
